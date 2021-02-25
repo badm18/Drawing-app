@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  
+}
+body{
+  width: fit-content;
+}
+.canvas{
+  width: fit-content;
+  border: 1px black solid;
+}
